@@ -1,4 +1,7 @@
-## Hi there 👋
+#Hi  👋 I'm Mihir Khanpara
+Branch: CSE(core)
+Year: 1st year
+I want to learn AI , Machine Learning and build real-world projects 
 
 <!--
 **mihirk07/mihirk07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
